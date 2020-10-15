@@ -10,25 +10,25 @@ const exportPathMap = require('./exportPathMap');
 console.log(process.env.NODE_ENV);
 
 let productionConfig = {};
-if (process.env.NODE_ENV === 'production') {
-  productionConfig = {
-    ...productionConfig,
-    // assetPrefix: 'https://computing.clemson.edu/trace',
-    assetPrefix: '/trace',
-    experimental: {
-      // https://computing.clemson.edu/trace/
-      basePath: '/trace',
-    },
+// if (process.env.NODE_ENV === 'production') {
+//   productionConfig = {
+//     ...productionConfig,
+//     // assetPrefix: 'https://computing.clemson.edu/trace',
+//     assetPrefix: '/trace',
+//     experimental: {
+//       // https://computing.clemson.edu/trace/
+//       basePath: '/trace',
+//     },
 
-    // No effect on public path
-    // https://nextjs.org/docs/api-reference/next.config.js/cdn-support-with-asset-prefix
-    // https://nextjs.org/docs/api-reference/next.config.js/environment-variables
-    env: {
-      publicPath: 'https://computing.clemson.edu/trace',
-    },
-    // https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base
-  };
-}
+//     // No effect on public path
+//     // https://nextjs.org/docs/api-reference/next.config.js/cdn-support-with-asset-prefix
+//     // https://nextjs.org/docs/api-reference/next.config.js/environment-variables
+//     env: {
+//       publicPath: 'https://computing.clemson.edu/trace',
+//     },
+//     // https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base
+//   };
+// }
 
 const config = {
   env: {
