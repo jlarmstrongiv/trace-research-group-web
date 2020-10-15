@@ -16,7 +16,7 @@ const Splash = ({
       <style>
         {`
           .SplashHack {
-            background-image: url(${process.env.publicPath}/static/images/pattern.svg);
+            background-image: url(/static/images/pattern.svg);
           }
         `}
       </style>

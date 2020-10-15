@@ -2,7 +2,7 @@ export { people } from './people';
 export { news } from './news';
 export { collaborations } from './Collaborations';
 export { sponsorships } from './sponsorships/sponsorships';
-export {themes} from './themes/themes'
+export { themes } from './Themes/themes';
 import publicationsData from './publications/index.json';
 export const publications = publicationsData;
 

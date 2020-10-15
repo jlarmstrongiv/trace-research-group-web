@@ -31,11 +31,11 @@ let productionConfig = {};
 // }
 
 const config = {
-  env: {
-    publicPath: '',
-  },
+  // env: {
+  //   publicPath: '',
+  // },
 
-  ...productionConfig,
+  // ...productionConfig,
 
   exportTrailingSlash: true,
   exportPathMap,

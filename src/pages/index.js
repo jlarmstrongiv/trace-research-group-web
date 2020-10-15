@@ -42,7 +42,7 @@ const Home = ({
     <style>
       {`
           .SplashHack {
-            background-image: url(${process.env.publicPath}/static/images/pattern.svg);
+            background-image: url(/static/images/pattern.svg);
           }
         `}
     </style>
@@ -54,14 +54,14 @@ const Home = ({
           ></div> */}
           <video
             className={styles.video}
-            poster={`${process.env.publicPath}/static/videos/drones.jpg`}
+            poster={`/static/videos/drones.jpg`}
             playsInline
             autoPlay
             muted
             loop
           >
             <source
-              src={`${process.env.publicPath}/static/videos/drones.mp4`}
+              src={`/static/videos/drones.mp4`}
               type="video/mp4"
             ></source>
           </video>

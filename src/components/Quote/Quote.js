@@ -7,7 +7,7 @@ const Quote = ({ children }) => {
       <style>
         {`
           .QuoteHack {
-            background-image: url(${process.env.publicPath}/static/images/pacman-ghost.svg);
+            background-image: url(/static/images/pacman-ghost.svg);
           }
         `}
       </style>

@@ -7,7 +7,7 @@ const ContactContent = ({ children }) => {
       <style>
         {`
           .ContactContentHack li::before {
-            background-image: url(${process.env.publicPath}/static/icons/gameday-sky-500/icons8-checked_checkbox.svg);
+            background-image: url(/static/icons/gameday-sky-500/icons8-checked_checkbox.svg);
           }
         `}
       </style>

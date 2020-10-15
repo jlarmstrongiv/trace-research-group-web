@@ -7,7 +7,7 @@ const Blurb = () => {
     <div className={styles.container}>
       <img
         className={styles.image}
-        src={'static/images/pacman-ghost.svg'}
+        src={'/static/images/pacman-ghost.svg'}
       />
       <div className={styles.card}>
         <p className={styles.text}>

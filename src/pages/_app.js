@@ -58,11 +58,11 @@ export default class MyApp extends App {
             key="X-UA-Compatible"
           />
           {/* https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base */}
-          {process.env.NODE_ENV === 'production' ? (
+          {/* {process.env.NODE_ENV === 'production' ? (
             <base href="https://computing.clemson.edu/trace/" />
           ) : (
             <base href="http://localhost:3000/" />
-          )}
+          )} */}
           {/*  */}
           {/* <title>TRACE Research Group</title> */}
           <meta
@@ -74,10 +74,10 @@ export default class MyApp extends App {
             content="TRACE research group tackles emergent issues faced in the tech landscape. Boasting a team assembled of multi-disciplinary backgrounds, we strive to produce research that accounts for various human-machine interactions."
           />
           <meta property="og:type" content="website" />
-          <meta
+          {/* <meta
             property="og:url"
             content="https://computing.clemson.edu/trace/"
-          />
+          /> */}
           <meta
             property="og:title"
             content="TRACE Research Group"
@@ -94,10 +94,10 @@ export default class MyApp extends App {
             property="twitter:card"
             content="summary_large_image"
           />
-          <meta
+          {/* <meta
             property="twitter:url"
             content="https://computing.clemson.edu/trace/"
-          />
+          /> */}
           <meta
             property="twitter:title"
             content="TRACE Research Group"
