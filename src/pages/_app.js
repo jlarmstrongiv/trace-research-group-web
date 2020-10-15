@@ -86,10 +86,10 @@ export default class MyApp extends App {
             property="og:description"
             content="TRACE research group tackles emergent issues faced in the tech landscape. Boasting a team assembled of multi-disciplinary backgrounds, we strive to produce research that accounts for various human-machine interactions."
           />
-          <meta
+          {/* <meta
             property="og:image"
             content={`${process.env.publicPath}/static/metadata/metadata.jpg`}
-          />
+          /> */}
           <meta
             property="twitter:card"
             content="summary_large_image"
@@ -106,10 +106,10 @@ export default class MyApp extends App {
             property="twitter:description"
             content="TRACE research group tackles emergent issues faced in the tech landscape. Boasting a team assembled of multi-disciplinary backgrounds, we strive to produce research that accounts for various human-machine interactions."
           />
-          <meta
+          {/* <meta
             property="twitter:image"
             content={`${process.env.publicPath}/static/metadata/metadata.jpg`}
-          />
+          /> */}
           {/* https://realfavicongenerator.net/ */}
           <link
             rel="apple-touch-icon"
