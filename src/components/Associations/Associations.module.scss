@@ -1,0 +1,47 @@
+.grid {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+  padding: 16px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.item {
+  max-width: 200px;
+  max-height: 75px;
+  margin: 16px;
+}
+
+.title {
+  text-align: center;
+  font-family: Zilla Slab;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 38px;
+  padding-bottom: 14px;
+  color: var(--cool-grey-800);
+}
+
+.spacer {
+  height: 32px;
+}
+
+@media screen and (min-width: 850px) {
+  .spacer {
+    height: 128px;
+  }
+  .item {
+    max-width: 400px;
+    max-height: 150px;
+    margin: 16px;
+  }
+  .title {
+    font-size: 50px;
+    line-height: 58px;
+    padding-bottom: 16px;
+  }
+}

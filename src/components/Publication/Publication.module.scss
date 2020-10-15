@@ -1,0 +1,49 @@
+.container {
+  padding: 16px;
+  &:hover {
+    background-color: var(--neutrals-050);
+  }
+}
+
+.name {
+  font-family: Fira Sans;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 23px;
+  color: var(--neutrals-800);
+}
+
+// https://stackoverflow.com/a/17158366
+.citation {
+  // padding-left: 32px;
+  // text-indent: -32px;
+  font-family: Fira Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 23px;
+  color: var(--neutrals-800);
+}
+
+.divider {
+  height: 2px;
+  background-color: var(--neutrals-100);
+}
+
+@media screen and (min-width: 800px) {
+  .container {
+    padding: 32px;
+    justify-content: left;
+  }
+  .name {
+    font-size: 21px;
+    line-height: 30px;
+  }
+  .citation {
+    // padding-left: 64px;
+    // text-indent: -64px;
+    font-size: 21px;
+    line-height: 30px;
+  }
+}

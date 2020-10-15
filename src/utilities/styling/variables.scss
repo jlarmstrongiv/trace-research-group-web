@@ -1,0 +1,67 @@
+/* :host vs :root https://stackoverflow.com/a/48380990 */
+:root,
+:host {
+  --white: #ffffff;
+  --black: #000000;
+
+  --gameday-sky-050: #e8f7fc;
+  --gameday-sky-100: #cbedfa;
+  --gameday-sky-200: #a1d8ed;
+  --gameday-sky-300: #7dc0db;
+  --gameday-sky-400: #62abca;
+  --gameday-sky-500: #5098b8;
+  --gameday-sky-600: #4082a1;
+  --gameday-sky-700: #336e8c;
+  --gameday-sky-800: #2b5e79;
+  --gameday-sky-900: #1d475e;
+
+  --cool-grey-050: #f5f7fa;
+  --cool-grey-100: #e4e7eb;
+  --cool-grey-200: #cbd2d9;
+  --cool-grey-300: #9aa5b1;
+  --cool-grey-400: #7b8794;
+  --cool-grey-500: #616e7c;
+  --cool-grey-600: #52606d;
+  --cool-grey-700: #3e4c59;
+  --cool-grey-800: #323f4b;
+  --cool-grey-900: #1f2933;
+
+  --primaries-050: var(--gameday-sky-050);
+  --primaries-100: var(--gameday-sky-100);
+  --primaries-200: var(--gameday-sky-200);
+  --primaries-300: var(--gameday-sky-300);
+  --primaries-400: var(--gameday-sky-400);
+  --primaries-500: var(--gameday-sky-500);
+  --primaries-600: var(--gameday-sky-600);
+  --primaries-700: var(--gameday-sky-700);
+  --primaries-800: var(--gameday-sky-800);
+  --primaries-900: var(--gameday-sky-900);
+
+  --neutrals-050: var(--cool-grey-050);
+  --neutrals-100: var(--cool-grey-100);
+  --neutrals-200: var(--cool-grey-200);
+  --neutrals-300: var(--cool-grey-300);
+  --neutrals-400: var(--cool-grey-400);
+  --neutrals-500: var(--cool-grey-500);
+  --neutrals-600: var(--cool-grey-600);
+  --neutrals-700: var(--cool-grey-700);
+  --neutrals-800: var(--cool-grey-800);
+  --neutrals-900: var(--cool-grey-900);
+
+  --font-heading: 'Fira Sans Extra Condensed', sans-serif;
+  --font-header: 'Zilla Slab', sans-serif;
+  --font-body: 'Fira Sans', sans-serif;
+
+  --shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1),
+    0 1px 2px 0 rgba(0, 0, 0, 0.06);
+  --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1),
+    0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1),
+    0 4px 6px -2px rgba(0, 0, 0, 0.05);
+  --shadow-xl: 0 20px 25px -5px rgba(0, 0, 0, 0.1),
+    0 10px 10px -5px rgba(0, 0, 0, 0.04);
+  --shadow-2xl: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+
+  --shadow-huge: 0 30px 60px -15px rgba(0, 0, 0, 0.25);
+  --shadow-inner: inset 0 2px 4px 0 rgba(0, 0, 0, 0.06);
+}

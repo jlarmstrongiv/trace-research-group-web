@@ -1,0 +1,42 @@
+.header {
+  display: none;
+  max-width: 1024px;
+  margin: 0 auto;
+  justify-content: space-between;
+}
+.hr {
+  height: 2px;
+  background-color: var(--neutrals-100);
+}
+.nav {
+  min-width: 400px;
+  // https://stackoverflow.com/a/37785605
+  margin: 20px auto;
+}
+.ul {
+  display: flex;
+}
+
+.li,
+.interpunct {
+  color: var(--neutrals-500);
+  text-align: center;
+
+  font-family: var(--font-header);
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 25px;
+}
+
+.li {
+  list-style-type: none;
+  flex-grow: 1;
+}
+
+@media screen and (min-width: 800px) {
+  .header {
+    display: flex;
+    align-items: center;
+  }
+}

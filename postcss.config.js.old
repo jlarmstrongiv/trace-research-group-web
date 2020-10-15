@@ -1,0 +1,7 @@
+module.exports = {
+  plugins: [
+    require('cssnext'),
+    require('autoprefixer'),
+    require('cssnano'),
+  ],
+};

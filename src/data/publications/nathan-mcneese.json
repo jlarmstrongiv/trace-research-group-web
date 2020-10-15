@@ -1,0 +1,2006 @@
+[
+  {
+    "author": [
+      {
+        "family": "Caragea",
+        "given": "Cornelia"
+      },
+      {
+        "family": "McNeese",
+        "given": "Nathan"
+      },
+      {
+        "family": "Jaiswal",
+        "given": "Anuj"
+      },
+      {
+        "family": "Traylor",
+        "given": "Greg"
+      },
+      {
+        "family": "Kim",
+        "given": "Hyun-Woo"
+      },
+      {
+        "family": "Mitra",
+        "given": "Prasenjit"
+      },
+      {
+        "family": "Wu",
+        "given": "Dinghao"
+      },
+      {
+        "family": "Tapia",
+        "given": "Andrea H"
+      },
+      {
+        "family": "Giles",
+        "given": "Lee"
+      },
+      {
+        "family": "Jansen",
+        "given": "Bernard J"
+      },
+      {
+        "literal": "others"
+      }
+    ],
+    "container-title": "Proceedings of the 8th international conference on information systems for crisis response and management (iscram2011)",
+    "id": "caragea2011classifying",
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "publisher": "Citeseer",
+    "title": "Classifying text messages for the haiti earthquake",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Canonico",
+        "given": "Lorenzo Barberis"
+      },
+      {
+        "family": "McNeese",
+        "given": "Nathan"
+      }
+    ],
+    "container-title": "2019 winter simulation conference (wsc)",
+    "id": "canonico2019flash",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "page": "193-204",
+    "publisher": "IEEE",
+    "title": "Flash crashes in multi-agent systems using minority games and reinforcement learning to test ai safety",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Canonico",
+        "given": "Lorenzo Barberis"
+      },
+      {
+        "family": "Flathmann",
+        "given": "Christopher"
+      },
+      {
+        "family": "McNeese",
+        "given": "Nathan"
+      }
+    ],
+    "collection-number": "1",
+    "container-title": "Proceedings of the human factors and ergonomics society annual meeting",
+    "id": "canonico2019wisdom",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "page": "1471-1475",
+    "publisher": "SAGE Publications Sage CA: Los Angeles, CA",
+    "title": "The wisdom of the market: Using human factors to design prediction markets for collective intelligence",
+    "title-short": "The wisdom of the market",
+    "type": "paper-conference",
+    "volume": "63"
+  },
+  {
+    "author": [
+      {
+        "family": "Flathmann",
+        "given": "Christopher"
+      },
+      {
+        "family": "McNeese",
+        "given": "Nathan"
+      },
+      {
+        "family": "Canonico",
+        "given": "Lorenzo Barberis"
+      }
+    ],
+    "collection-number": "1",
+    "container-title": "Proceedings of the human factors and ergonomics society annual meeting",
+    "id": "flathmann2019using",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "page": "1425-1429",
+    "publisher": "SAGE Publications Sage CA: Los Angeles, CA",
+    "title": "Using human-agent teams to purposefully design multi-agent systems",
+    "type": "paper-conference",
+    "volume": "63"
+  },
+  {
+    "author": [
+      {
+        "family": "Demir",
+        "given": "Mustafa"
+      },
+      {
+        "family": "McNeese",
+        "given": "Nathan J"
+      },
+      {
+        "family": "Cooke",
+        "given": "Nancy J"
+      },
+      {
+        "family": "Grimm",
+        "given": "David A"
+      },
+      {
+        "family": "Gorman",
+        "given": "Jamie C"
+      }
+    ],
+    "collection-number": "1",
+    "container-title": "Proceedings of the human factors and ergonomics society annual meeting",
+    "id": "demir2019empirical",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "page": "153-154",
+    "publisher": "SAGE Publications Sage CA: Los Angeles, CA",
+    "title": "An empirical exploration of resilience in human-autonomy teams operating remotely piloted aircraft systems",
+    "type": "paper-conference",
+    "volume": "63"
+  },
+  {
+    "author": [
+      {
+        "family": "Lematta",
+        "given": "Glenn J"
+      },
+      {
+        "family": "Coleman",
+        "given": "Pamela B"
+      },
+      {
+        "family": "Bhatti",
+        "given": "Shawaiz A"
+      },
+      {
+        "family": "Chiou",
+        "given": "Erin K"
+      },
+      {
+        "family": "McNeese",
+        "given": "Nathan J"
+      },
+      {
+        "family": "Demir",
+        "given": "Mustafa"
+      },
+      {
+        "family": "Cooke",
+        "given": "Nancy J"
+      }
+    ],
+    "collection-number": "1",
+    "container-title": "Proceedings of the human factors and ergonomics society annual meeting",
+    "id": "lematta2019developing",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "page": "1503-1507",
+    "publisher": "SAGE Publications Sage CA: Los Angeles, CA",
+    "title": "Developing human-robot team interdependence in a synthetic task environment",
+    "type": "paper-conference",
+    "volume": "63"
+  },
+  {
+    "author": [
+      {
+        "family": "Canonico",
+        "given": "Lorenzo Barberis"
+      },
+      {
+        "family": "Flathmann",
+        "given": "Christopher"
+      },
+      {
+        "family": "McNeese",
+        "given": "Nathan"
+      }
+    ],
+    "collection-number": "1",
+    "container-title": "Proceedings of the human factors and ergonomics society annual meeting",
+    "id": "canonico2019collectively",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "page": "1466-1470",
+    "publisher": "SAGE Publications Sage CA: Los Angeles, CA",
+    "title": "Collectively intelligent teams: Integrating team cognition, collective intelligence, and ai for future teaming",
+    "title-short": "Collectively intelligent teams",
+    "type": "paper-conference",
+    "volume": "63"
+  },
+  {
+    "author": [
+      {
+        "family": "Demir",
+        "given": "Mustafa"
+      },
+      {
+        "family": "McNeese",
+        "given": "Nathan J"
+      },
+      {
+        "family": "She",
+        "given": "Manrong"
+      },
+      {
+        "family": "Cooke",
+        "given": "Nancy J"
+      }
+    ],
+    "collection-number": "1",
+    "container-title": "Proceedings of the human factors and ergonomics society annual meeting",
+    "id": "demir2019team",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "page": "146-147",
+    "publisher": "SAGE Publications Sage CA: Los Angeles, CA",
+    "title": "Team coordination of team situation awareness in human-autonomy teaming",
+    "type": "paper-conference",
+    "volume": "63"
+  },
+  {
+    "author": [
+      {
+        "family": "Grimm",
+        "given": "David A"
+      },
+      {
+        "family": "Demir",
+        "given": "Mustafa"
+      },
+      {
+        "family": "Gorman",
+        "given": "Jamie C"
+      },
+      {
+        "family": "Cooke",
+        "given": "Nancy J"
+      },
+      {
+        "family": "McNeese",
+        "given": "Nathan J"
+      }
+    ],
+    "collection-number": "1",
+    "container-title": "Proceedings of the human factors and ergonomics society annual meeting",
+    "id": "grimm2019layered",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "page": "165-165",
+    "publisher": "SAGE Publications Sage CA: Los Angeles, CA",
+    "title": "Layered dynamics and system effectiveness of human-autonomy teams under degraded conditions",
+    "type": "paper-conference",
+    "volume": "63"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeese",
+        "given": "Nathan J"
+      }
+    ],
+    "container-title": "IEEE Systems, Man, and Cybernetics Magazine",
+    "id": "mcneese2019pursuit",
+    "issue": "4",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "page": "10-15",
+    "publisher": "IEEE",
+    "title": "The pursuit of transdisciplinary research: Eight recommendations for integrating disciplines",
+    "title-short": "The pursuit of transdisciplinary research",
+    "type": "article-journal",
+    "volume": "5"
+  },
+  {
+    "author": [
+      {
+        "family": "Demir",
+        "given": "Mustafa"
+      },
+      {
+        "family": "McNeese",
+        "given": "Nathan J"
+      },
+      {
+        "family": "Cooke",
+        "given": "Nancy J"
+      }
+    ],
+    "container-title": "Frontiers in Communication",
+    "id": "demir2019evolution",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "page": "50",
+    "publisher": "Frontiers",
+    "title": "The evolution of human-autonomy teams in remotely piloted aircraft systems operations",
+    "type": "article-journal",
+    "volume": "4"
+  },
+  {
+    "author": [
+      {
+        "family": "Freeman",
+        "given": "Guo"
+      },
+      {
+        "family": "McNeese",
+        "given": "Nathan J"
+      }
+    ],
+    "container-title": "Computer Supported Cooperative Work (CSCW)",
+    "id": "freeman2019exploring",
+    "issue": "3-4",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "page": "723-748",
+    "publisher": "Springer",
+    "title": "Exploring indie game development: Team practices and social experiences in a creativity-centric technology community",
+    "title-short": "Exploring indie game development",
+    "type": "article-journal",
+    "volume": "28"
+  },
+  {
+    "author": [
+      {
+        "family": "Freeman",
+        "given": "Guo"
+      },
+      {
+        "family": "Bardzell",
+        "given": "Jeffrey"
+      },
+      {
+        "family": "Bardzell",
+        "given": "Shaowen"
+      },
+      {
+        "family": "McNeese",
+        "given": "Nathan J"
+      }
+    ],
+    "container-title": "International conference on information",
+    "id": "freeman2019innovation",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "page": "614-624",
+    "publisher": "Springer",
+    "title": "The innovation ecology: Collaborative information, community support, and policy in a creative technology community",
+    "title-short": "The innovation ecology",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Demir",
+        "given": "Mustafa"
+      },
+      {
+        "family": "Likens",
+        "given": "Aaron D"
+      },
+      {
+        "family": "Cooke",
+        "given": "Nancy J"
+      },
+      {
+        "family": "Amazeen",
+        "given": "Polemnia G"
+      },
+      {
+        "family": "McNeese",
+        "given": "Nathan J"
+      }
+    ],
+    "container-title": "IEEE Transactions on Human-Machine Systems",
+    "id": "demir2018team",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "page": "150-159",
+    "publisher": "IEEE",
+    "title": "Team coordination and effectiveness in human-autonomy teaming",
+    "type": "article-journal",
+    "volume": "49"
+  },
+  {
+    "author": [
+      {
+        "family": "Demir",
+        "given": "Mustafa"
+      },
+      {
+        "family": "McNeese",
+        "given": "Nathan J"
+      },
+      {
+        "family": "Johnson",
+        "given": "Craig"
+      },
+      {
+        "family": "Gorman",
+        "given": "Jamie C"
+      },
+      {
+        "family": "Grimm",
+        "given": "David"
+      },
+      {
+        "family": "Cooke",
+        "given": "Nancy J"
+      }
+    ],
+    "container-title": "2019 ieee conference on cognitive and computational aspects of situation management (cogsima)",
+    "id": "demir2019effective",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "page": "122-126",
+    "publisher": "IEEE",
+    "title": "Effective team interaction for adaptive training and situation awareness in human-autonomy teaming",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeese",
+        "given": "Nathan"
+      },
+      {
+        "family": "Demir",
+        "given": "Mustafa"
+      },
+      {
+        "family": "Chiou",
+        "given": "Erin"
+      },
+      {
+        "family": "Cooke",
+        "given": "Nancy"
+      },
+      {
+        "family": "Yanikian",
+        "given": "Giovanni"
+      }
+    ],
+    "container-title": "Proceedings of the 52nd hawaii international conference on system sciences",
+    "id": "mcneese2019understanding",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "title": "Understanding the role of trust in human-autonomy teaming",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Myers",
+        "given": "Christopher"
+      },
+      {
+        "family": "Ball",
+        "given": "Jerry"
+      },
+      {
+        "family": "Cooke",
+        "given": "Nancy"
+      },
+      {
+        "family": "Freiman",
+        "given": "Mary"
+      },
+      {
+        "family": "Caisse",
+        "given": "Michelle"
+      },
+      {
+        "family": "Rodgers",
+        "given": "Stuart"
+      },
+      {
+        "family": "Demir",
+        "given": "Mustafa"
+      },
+      {
+        "family": "McNeese",
+        "given": "Nathan"
+      }
+    ],
+    "container-title": "IEEE Intelligent Systems",
+    "id": "myers2018autonomous",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "page": "3-14",
+    "publisher": "IEEE",
+    "title": "Autonomous intelligent agents for team training",
+    "type": "article-journal",
+    "volume": "34"
+  },
+  {
+    "author": [
+      {
+        "family": "Barberis Canonico",
+        "given": "Lorenzo"
+      },
+      {
+        "family": "McNeese",
+        "given": "Nathan J"
+      },
+      {
+        "family": "Shuffler",
+        "given": "Marissa L"
+      }
+    ],
+    "collection-number": "1",
+    "container-title": "Proceedings of the human factors and ergonomics society annual meeting",
+    "id": "barberis2018stable",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "page": "1202-1206",
+    "publisher": "SAGE Publications Sage CA: Los Angeles, CA",
+    "title": "Stable teamwork marriages in healthcare: Applying machine learning to surgeon-nurse-patient matching",
+    "title-short": "Stable teamwork marriages in healthcare",
+    "type": "paper-conference",
+    "volume": "62"
+  },
+  {
+    "author": [
+      {
+        "family": "Barberis Canonico",
+        "given": "Lorenzo"
+      },
+      {
+        "family": "McNeese",
+        "given": "Nathan J"
+      },
+      {
+        "family": "Duncan",
+        "given": "Chris"
+      }
+    ],
+    "collection-number": "1",
+    "container-title": "Proceedings of the human factors and ergonomics society annual meeting",
+    "id": "barberis2018machine",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "page": "1252-1256",
+    "publisher": "SAGE Publications Sage CA: Los Angeles, CA",
+    "title": "Machine learning as grounded theory: Human-centered interfaces for social network research through artificial intelligence",
+    "title-short": "Machine learning as grounded theory",
+    "type": "paper-conference",
+    "volume": "62"
+  },
+  {
+    "author": [
+      {
+        "family": "Barberis",
+        "given": "Lorenzo"
+      },
+      {
+        "family": "McNeese",
+        "given": "Nathan J"
+      }
+    ],
+    "collection-number": "1",
+    "container-title": "Proceedings of the human factors and ergonomics society annual meeting",
+    "id": "barberis2018intelligent",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "page": "1197-1201",
+    "publisher": "SAGE Publications Sage CA: Los Angeles, CA",
+    "title": "Intelligent and human-centered clinical checklists: A voice interface for virtualized clinical paths",
+    "title-short": "Intelligent and human-centered clinical checklists",
+    "type": "paper-conference",
+    "volume": "62"
+  },
+  {
+    "author": [
+      {
+        "family": "Demir",
+        "given": "Mustafa"
+      },
+      {
+        "family": "McNeese",
+        "given": "Nathan J"
+      },
+      {
+        "family": "Cooke",
+        "given": "Nancy J"
+      }
+    ],
+    "container-title": "IEEE Transactions on Emerging Topics in Computational Intelligence",
+    "id": "demir2018impact",
+    "issue": "4",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "page": "258-267",
+    "publisher": "IEEE",
+    "title": "The impact of perceived autonomous agents on dynamic team behaviors",
+    "type": "article-journal",
+    "volume": "2"
+  },
+  {
+    "author": [
+      {
+        "family": "Demir",
+        "given": "Mustafa"
+      },
+      {
+        "family": "McNeese",
+        "given": "Nathan J"
+      },
+      {
+        "family": "Cooke",
+        "given": "Nancy J"
+      }
+    ],
+    "container-title": "International conference on applied human factors and ergonomics",
+    "id": "demir2017team",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "page": "303-312",
+    "publisher": "Springer",
+    "title": "Team synchrony in human-autonomy teaming",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeese",
+        "given": "Nathan J"
+      },
+      {
+        "family": "Demir",
+        "given": "Mustafa"
+      },
+      {
+        "family": "Cooke",
+        "given": "Nancy J"
+      },
+      {
+        "family": "Myers",
+        "given": "Christopher"
+      }
+    ],
+    "container-title": "Human factors",
+    "id": "mcneese2018teaming",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "page": "262-273",
+    "publisher": "Sage Publications Sage CA: Los Angeles, CA",
+    "title": "Teaming with a synthetic teammate: Insights into human-autonomy teaming",
+    "title-short": "Teaming with a synthetic teammate",
+    "type": "article-journal",
+    "volume": "60"
+  },
+  {
+    "author": [
+      {
+        "family": "Demir",
+        "given": "Mustafa"
+      },
+      {
+        "family": "Amazeen",
+        "given": "Polomnia G"
+      },
+      {
+        "family": "McNeese",
+        "given": "Nathan J"
+      },
+      {
+        "family": "Likens",
+        "given": "Aaron"
+      },
+      {
+        "family": "Cooke",
+        "given": "Nancy J"
+      }
+    ],
+    "collection-number": "1",
+    "container-title": "Proceedings of the human factors and ergonomics society annual meeting",
+    "id": "demir2017team",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "page": "236-236",
+    "publisher": "SAGE Publications Sage CA: Los Angeles, CA",
+    "title": "Team coordination dynamics in human-autonomy teaming",
+    "type": "paper-conference",
+    "volume": "61"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeese",
+        "given": "Nathan J"
+      },
+      {
+        "family": "Demir",
+        "given": "Mustafa"
+      },
+      {
+        "family": "Reddy",
+        "given": "Madhu"
+      }
+    ],
+    "container-title": "Cognitive systems engineering: An integrative living laboratory framework",
+    "id": "mcneese2017methodological",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "page": "105-130",
+    "publisher": "CRC Press",
+    "title": "Methodological techniques and approaches to developing empirical insights of cognition during collaborative information seeking",
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Gray",
+        "given": "Rob"
+      },
+      {
+        "family": "Cooke",
+        "given": "Nancy J"
+      },
+      {
+        "family": "McNeese",
+        "given": "Nathan J"
+      },
+      {
+        "family": "McNabb",
+        "given": "Jaimie"
+      }
+    ],
+    "container-title": "Frontiers in psychology",
+    "id": "gray2017investigating",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "page": "907",
+    "publisher": "Frontiers",
+    "title": "Investigating team coordination in baseball using a novel joint decision making paradigm",
+    "type": "article-journal",
+    "volume": "8"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeese",
+        "given": "Nathan J"
+      },
+      {
+        "family": "Cooke",
+        "given": "Nancy J"
+      },
+      {
+        "family": "Branaghan",
+        "given": "Russell"
+      },
+      {
+        "family": "Knobloch",
+        "given": "Ashley"
+      },
+      {
+        "family": "Taylor",
+        "given": "Amanda"
+      }
+    ],
+    "container-title": "Applied ergonomics",
+    "id": "mcneese2017identification",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "page": "43-51",
+    "publisher": "Elsevier",
+    "title": "Identification of the emplacement of improvised explosive devices by experienced mission payload operators",
+    "type": "article-journal",
+    "volume": "60"
+  },
+  {
+    "author": [
+      {
+        "family": "Buchanan",
+        "given": "Verica"
+      },
+      {
+        "family": "Lu",
+        "given": "Yafeng"
+      },
+      {
+        "family": "McNeese",
+        "given": "Nathan"
+      },
+      {
+        "family": "Steptoe",
+        "given": "Michael"
+      },
+      {
+        "family": "Maciejewski",
+        "given": "Ross"
+      },
+      {
+        "family": "Cooke",
+        "given": "Nancy"
+      }
+    ],
+    "container-title": "Big data",
+    "id": "buchanan2017role",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "page": "53-66",
+    "publisher": "Mary Ann Liebert, Inc. 140 Huguenot Street, 3rd Floor New Rochelle, NY 10801 USA",
+    "title": "The role of teamwork in the analysis of big data: A study of visual analytics and box office prediction",
+    "title-short": "The role of teamwork in the analysis of big data",
+    "type": "article-journal",
+    "volume": "5"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeese",
+        "given": "Nathan J"
+      },
+      {
+        "family": "Cooke",
+        "given": "Nancy J"
+      },
+      {
+        "family": "Gray",
+        "given": "Rob"
+      },
+      {
+        "family": "Fedele",
+        "given": "Michael"
+      }
+    ],
+    "container-title": "Advances in human factors in sports and outdoor recreation",
+    "id": "mcneese2017knowledge",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "page": "3-15",
+    "publisher": "Springer",
+    "title": "Knowledge elicitation methods for developing insights into team cognition during team sports",
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeese",
+        "given": "Michael"
+      },
+      {
+        "family": "McNeese",
+        "given": "Nathan J"
+      },
+      {
+        "family": "Endsley",
+        "given": "Tristan"
+      },
+      {
+        "family": "Reep",
+        "given": "James"
+      },
+      {
+        "family": "Forster",
+        "given": "Peter"
+      }
+    ],
+    "container-title": "Advances in neuroergonomics and cognitive engineering",
+    "id": "mcneese2017simulating",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "page": "255-267",
+    "publisher": "Springer",
+    "title": "Simulating team cognition in complex systems: Practical considerations for researchers",
+    "title-short": "Simulating team cognition in complex systems",
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeese",
+        "given": "Nathan"
+      },
+      {
+        "family": "Cooke",
+        "given": "Nancy J"
+      },
+      {
+        "family": "Fedele",
+        "given": "Mike"
+      },
+      {
+        "family": "Gray",
+        "given": "Rob"
+      }
+    ],
+    "container-title": "Sport and exercise psychology research",
+    "id": "mcneese2016perspectives",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "page": "123-141",
+    "publisher": "Elsevier",
+    "title": "Perspectives on team cognition and team sports",
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Demir",
+        "given": "Mustafa"
+      },
+      {
+        "family": "McNeese",
+        "given": "Nathan J"
+      },
+      {
+        "family": "Cooke",
+        "given": "Nancy J"
+      }
+    ],
+    "container-title": "Cognitive Systems Research",
+    "id": "demir2017team",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "page": "3-12",
+    "publisher": "Elsevier",
+    "title": "Team situation awareness within the context of human-autonomy teaming",
+    "type": "article-journal",
+    "volume": "46"
+  },
+  {
+    "author": [
+      {
+        "family": "Harnett",
+        "given": "Brett M"
+      },
+      {
+        "family": "Doarn",
+        "given": "Charles R"
+      },
+      {
+        "family": "Rosen",
+        "given": "Jacob"
+      },
+      {
+        "family": "Hannaford",
+        "given": "Blake"
+      },
+      {
+        "family": "Broderick",
+        "given": "Timothy J"
+      }
+    ],
+    "container-title": "Telemedicine and e-Health",
+    "id": "harnett2008evaluation",
+    "issue": "6",
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "page": "539-544",
+    "publisher": "Mary Ann Liebert, Inc. 140 Huguenot Street 3rd Floor New Rochelle, NY 10801 USA",
+    "title": "Evaluation of unmanned airborne vehicles and mobile robotic telesurgery in an extreme environment",
+    "type": "article-journal",
+    "volume": "14"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeese",
+        "given": "Nathan J"
+      },
+      {
+        "family": "Khera",
+        "given": "Nandita"
+      },
+      {
+        "family": "Wordingham",
+        "given": "Sara E"
+      },
+      {
+        "family": "Arring",
+        "given": "Noel"
+      },
+      {
+        "family": "Nyquist",
+        "given": "Sharon"
+      },
+      {
+        "family": "Gentry",
+        "given": "Amy"
+      },
+      {
+        "family": "Tomlinson",
+        "given": "Brian"
+      },
+      {
+        "family": "Cooke",
+        "given": "Nancy J"
+      },
+      {
+        "family": "Sen",
+        "given": "Ayan"
+      }
+    ],
+    "container-title": "Journal of oncology practice",
+    "id": "mcneese2016team",
+    "issue": "11",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "page": "1091-1099",
+    "publisher": "American Society of Clinical Oncology Alexandria, VA",
+    "title": "Team cognition as a means to improve care delivery in critically ill patients with cancer after hematopoietic cell transplantation",
+    "type": "article-journal",
+    "volume": "12"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeese",
+        "given": "Michael D"
+      },
+      {
+        "family": "McNeese",
+        "given": "Nathan J"
+      }
+    ],
+    "collection-number": "1",
+    "container-title": "Proceedings of the human factors and ergonomics society annual meeting",
+    "id": "mcneese2016intelligent",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "page": "153-157",
+    "publisher": "SAGE Publications Sage CA: Los Angeles, CA",
+    "title": "Intelligent teamwork: A history, framework, and lessons learned",
+    "title-short": "Intelligent teamwork",
+    "type": "paper-conference",
+    "volume": "60"
+  },
+  {
+    "author": [
+      {
+        "family": "Demir",
+        "given": "Mustafa"
+      },
+      {
+        "family": "McNeese",
+        "given": "Nathan J"
+      },
+      {
+        "family": "Cooke",
+        "given": "Nancy J"
+      },
+      {
+        "family": "Myers",
+        "given": "Christopher"
+      }
+    ],
+    "collection-number": "1",
+    "container-title": "Proceedings of the human factors and ergonomics society annual meeting",
+    "id": "demir2016synthetic",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "page": "116-116",
+    "publisher": "SAGE Publications Sage CA: Los Angeles, CA",
+    "title": "The synthetic teammate as a team player in command-and-control teams",
+    "type": "paper-conference",
+    "volume": "60"
+  },
+  {
+    "author": [
+      {
+        "family": "Cooke",
+        "given": "Nancy J"
+      },
+      {
+        "family": "McNeese",
+        "given": "Nathan J"
+      },
+      {
+        "family": "Shope",
+        "given": "Steven M"
+      }
+    ],
+    "collection-number": "1",
+    "container-title": "Proceedings of the human factors and ergonomics society annual meeting",
+    "id": "cooke2016human",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "page": "1459-1463",
+    "publisher": "SAGE Publications Sage CA: Los Angeles, CA",
+    "title": "Human systems integration: A 28,000 foot view",
+    "title-short": "Human systems integration",
+    "type": "paper-conference",
+    "volume": "60"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeese",
+        "given": "Nathan J"
+      },
+      {
+        "family": "Cooke",
+        "given": "Nancy J"
+      },
+      {
+        "family": "Shope",
+        "given": "Steven"
+      },
+      {
+        "family": "Knobloch",
+        "given": "Ashley"
+      }
+    ],
+    "collection-number": "1",
+    "container-title": "Proceedings of the human factors and ergonomics society annual meeting",
+    "id": "mcneese2016extreme",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "page": "1409-1413",
+    "publisher": "SAGE Publications Sage CA: Los Angeles, CA",
+    "title": "The extreme environment of high altitude gas ballooning: Lessons learned in assessing cognition",
+    "title-short": "The extreme environment of high altitude gas ballooning",
+    "type": "paper-conference",
+    "volume": "60"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeese",
+        "given": "Nathan J"
+      },
+      {
+        "family": "Cooke",
+        "given": "Nancy J"
+      }
+    ],
+    "container-title": "International conference on augmented cognition",
+    "id": "mcneese2016team",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "page": "198-209",
+    "publisher": "Springer",
+    "title": "Team cognition as a mechanism for developing collaborative and proactive decision support in remotely piloted aircraft systems",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Hinski",
+        "given": "Sandra"
+      },
+      {
+        "family": "Cooke",
+        "given": "Nancy J"
+      },
+      {
+        "family": "McNeese",
+        "given": "Nathan"
+      },
+      {
+        "family": "Sen",
+        "given": "Ayan"
+      },
+      {
+        "family": "Patel",
+        "given": "Bhavesh"
+      }
+    ],
+    "collection-number": "1",
+    "container-title": "Proceedings of the international symposium on human factors and ergonomics in health care",
+    "id": "hinski2016human",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "page": "68-71",
+    "publisher": "SAGE Publications Sage CA: Los Angeles, CA",
+    "title": "A human factors approach to building high-performance multi-professional cardiac arrest teams: Developing a code blue team performance metric",
+    "title-short": "A human factors approach to building high-performance multi-professional cardiac arrest teams",
+    "type": "paper-conference",
+    "volume": "5"
+  },
+  {
+    "author": [
+      {
+        "family": "Cooke",
+        "given": "Nancy J"
+      },
+      {
+        "family": "Demir",
+        "given": "Mustafa"
+      },
+      {
+        "family": "McNeese",
+        "given": "Nathan"
+      }
+    ],
+    "id": "cooke2016synthetic",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "publisher": "Cognitive Engineering Research Institute Mesa United States",
+    "title": "Synthetic teammates as team players: Coordination of human and synthetic teammates",
+    "title-short": "Synthetic teammates as team players",
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Demir",
+        "given": "Mustafa"
+      },
+      {
+        "family": "McNeese",
+        "given": "Nathan J"
+      },
+      {
+        "family": "Cooke",
+        "given": "Nancy J"
+      }
+    ],
+    "container-title": "2016 ieee international multi-disciplinary conference on cognitive methods in situation awareness and decision support (cogsima)",
+    "id": "demir2016team",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "page": "28-34",
+    "publisher": "IEEE",
+    "title": "Team communication behaviors of the human-automation teaming",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeese",
+        "given": "Nathan J"
+      },
+      {
+        "family": "Cooke",
+        "given": "Nancy J"
+      },
+      {
+        "family": "Fedele",
+        "given": "Michael A"
+      },
+      {
+        "family": "Gray",
+        "given": "Rob"
+      }
+    ],
+    "container-title": "Procedia Manufacturing",
+    "id": "mcneese2015theoretical",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "page": "1211-1218",
+    "publisher": "Elsevier",
+    "title": "Theoretical and methodical approaches to studying team cognition in sports",
+    "type": "article-journal",
+    "volume": "3"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeese",
+        "given": "Michael D"
+      },
+      {
+        "family": "Mancuso",
+        "given": "Vincent F"
+      },
+      {
+        "family": "McNeese",
+        "given": "Nathan J"
+      },
+      {
+        "family": "Glantz",
+        "given": "Edward"
+      }
+    ],
+    "container-title": "Procedia Manufacturing",
+    "id": "mcneese2015went",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "page": "5222-5229",
+    "publisher": "Elsevier",
+    "title": "What went wrong? What can go right? A prospectus on human factors practice",
+    "type": "article-journal",
+    "volume": "3"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeese",
+        "given": "Nathan J"
+      },
+      {
+        "family": "Reddy",
+        "given": "Madhu C"
+      }
+    ],
+    "container-title": "Journal of the Association for Information Science and Technology",
+    "id": "mcneese2017role",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "page": "129-140",
+    "publisher": "Wiley Online Library",
+    "title": "The role of team cognition in collaborative information seeking",
+    "type": "article-journal",
+    "volume": "68"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeese",
+        "given": "Nathan J"
+      },
+      {
+        "family": "Buchanan",
+        "given": "Verica"
+      },
+      {
+        "family": "Cooke",
+        "given": "Nancy J"
+      }
+    ],
+    "collection-number": "1",
+    "container-title": "Proceedings of the human factors and ergonomics society annual meeting",
+    "id": "mcneese2015cognitive",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "page": "826-830",
+    "publisher": "SAGE Publications Sage CA: Los Angeles, CA",
+    "title": "The cognitive science of intelligence analysis",
+    "type": "paper-conference",
+    "volume": "59"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeese",
+        "given": "Nathan J"
+      },
+      {
+        "family": "Reddy",
+        "given": "Madhu C"
+      }
+    ],
+    "collection-number": "1",
+    "container-title": "Proceedings of the human factors and ergonomics society annual meeting",
+    "id": "mcneese2015articulating",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "page": "240-244",
+    "publisher": "SAGE Publications Sage CA: Los Angeles, CA",
+    "title": "Articulating and understanding the development of a team mental model in a distributed medium",
+    "type": "paper-conference",
+    "volume": "59"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeese",
+        "given": "Nathan J"
+      },
+      {
+        "family": "Cooke",
+        "given": "Nancy J"
+      },
+      {
+        "family": "Buchanan",
+        "given": "Verica"
+      }
+    ],
+    "collection-number": "1",
+    "container-title": "Proceedings of the human factors and ergonomics society annual meeting",
+    "id": "mcneese2015human",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "page": "821-825",
+    "publisher": "SAGE Publications Sage CA: Los Angeles, CA",
+    "title": "Human factors guidelines for developing collaborative intelligence analysis technologies",
+    "type": "paper-conference",
+    "volume": "59"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeese",
+        "given": "Nathan J"
+      },
+      {
+        "family": "Hoffman",
+        "given": "Robert R"
+      },
+      {
+        "family": "McNeese",
+        "given": "Michael D"
+      },
+      {
+        "family": "Patterson",
+        "given": "Emily S"
+      },
+      {
+        "family": "Cooke",
+        "given": "Nancy J"
+      },
+      {
+        "family": "Klein",
+        "given": "Gary"
+      }
+    ],
+    "collection-number": "1",
+    "container-title": "Proceedings of the human factors and ergonomics society annual meeting",
+    "id": "mcneese2015human",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "page": "130-134",
+    "publisher": "SAGE Publications Sage CA: Los Angeles, CA",
+    "title": "The human factors of intelligence analysis",
+    "type": "paper-conference",
+    "volume": "59"
+  },
+  {
+    "author": [
+      {
+        "family": "Demir",
+        "given": "Mustafa"
+      },
+      {
+        "family": "McNeese",
+        "given": "Nathan J"
+      },
+      {
+        "family": "Cooke",
+        "given": "Nancy J"
+      },
+      {
+        "family": "Ball",
+        "given": "Jerry T"
+      },
+      {
+        "family": "Myers",
+        "given": "Christopher"
+      },
+      {
+        "family": "Frieman",
+        "given": "Mary"
+      }
+    ],
+    "collection-number": "1",
+    "container-title": "Proceedings of the human factors and ergonomics society annual meeting",
+    "id": "demir2015synthetic",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "page": "951-955",
+    "publisher": "SAGE Publications Sage CA: Los Angeles, CA",
+    "title": "Synthetic teammate communication and coordination with humans",
+    "type": "paper-conference",
+    "volume": "59"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeese",
+        "given": "Nathan J"
+      },
+      {
+        "family": "Reddy",
+        "given": "Madhu C"
+      }
+    ],
+    "collection-number": "1",
+    "container-title": "Proceedings of the human factors and ergonomics society annual meeting",
+    "id": "mcneese2015concept",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "page": "245-249",
+    "publisher": "SAGE Publications Sage CA: Los Angeles, CA",
+    "title": "Concept mapping as a methodology to develop insights on cognition during collaborative information seeking",
+    "type": "paper-conference",
+    "volume": "59"
+  },
+  {
+    "author": [
+      {
+        "family": "Demir",
+        "given": "Mustafa"
+      },
+      {
+        "family": "McNeese",
+        "given": "NJ"
+      }
+    ],
+    "container-title": "International conference on naturalistic decision making",
+    "id": "demir2015role",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "title": "The role of recognition primed decision making in human-automation (ha) teaming",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeese",
+        "given": "Nathan J"
+      },
+      {
+        "family": "Reddy",
+        "given": "Madhu C"
+      },
+      {
+        "family": "Friedenberg",
+        "given": "Evan M"
+      }
+    ],
+    "collection-number": "1",
+    "container-title": "Proceedings of the human factors and ergonomics society annual meeting",
+    "id": "mcneese2014towards",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "page": "335-339",
+    "publisher": "SAGE Publications Sage CA: Los Angeles, CA",
+    "title": "Towards a team mental model of collaborative information seeking during team decision-making",
+    "type": "paper-conference",
+    "volume": "58"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeese",
+        "given": "Michael D"
+      },
+      {
+        "family": "Mancuso",
+        "given": "Vincent F"
+      },
+      {
+        "family": "McNeese",
+        "given": "Nathan J"
+      },
+      {
+        "family": "Endsley",
+        "given": "Tristan"
+      },
+      {
+        "family": "Forster",
+        "given": "Pete"
+      }
+    ],
+    "collection-number": "1",
+    "container-title": "Proceedings of the human factors and ergonomics society annual meeting",
+    "id": "mcneese2014integrative",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "page": "285-289",
+    "publisher": "SAGE Publications Sage CA: Los Angeles, CA",
+    "title": "An integrative simulation to study team cognition in emergency crisis management",
+    "type": "paper-conference",
+    "volume": "58"
+  },
+  {
+    "author": [
+      {
+        "family": "Murphy",
+        "given": "Alison R"
+      },
+      {
+        "family": "Reddy",
+        "given": "Madhu C"
+      },
+      {
+        "family": "McNeese",
+        "given": "Nathan J"
+      }
+    ],
+    "container-title": "Proceedings of the 2014 conference on designing interactive systems",
+    "id": "murphy2014exploring",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "page": "429-432",
+    "title": "Exploring the perceptions and use of electronic medical record systems by non-clinicians",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Johnson",
+        "given": "Nicholas"
+      },
+      {
+        "family": "Murphy",
+        "given": "Alison"
+      },
+      {
+        "family": "McNeese",
+        "given": "Nathan"
+      },
+      {
+        "family": "Reddy",
+        "given": "Madhu"
+      },
+      {
+        "family": "Purao",
+        "given": "Sandeep"
+      }
+    ],
+    "container-title": "AMIA annual symposium proceedings",
+    "id": "johnson2013survey",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "page": "732",
+    "publisher": "American Medical Informatics Association",
+    "title": "A survey of rural hospitals’ perspectives on health information technology outsourcing",
+    "type": "paper-conference",
+    "volume": "2013"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeese",
+        "given": "Michael D"
+      },
+      {
+        "family": "Mancuso",
+        "given": "Vincent"
+      },
+      {
+        "family": "McNeese",
+        "given": "Nathan"
+      },
+      {
+        "family": "Endsley",
+        "given": "Tristan"
+      },
+      {
+        "family": "Forster",
+        "given": "Pete"
+      }
+    ],
+    "container-title": "Next-generation analyst",
+    "id": "mcneese2013using",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "page": "87580F",
+    "publisher": "International Society for Optics; Photonics",
+    "title": "Using the living laboratory framework as a basis for understanding next-generation analyst work",
+    "type": "paper-conference",
+    "volume": "8758"
+  },
+  {
+    "author": [
+      {
+        "family": "McNeese",
+        "given": "Nathaniel J"
+      },
+      {
+        "family": "Pfaff",
+        "given": "Mark S"
+      },
+      {
+        "family": "Santoro",
+        "given": "Gerald M"
+      },
+      {
+        "family": "McNeese",
+        "given": "Michael D"
+      }
+    ],
+    "collection-number": "19",
+    "container-title": "Proceedings of the human factors and ergonomics society annual meeting",
+    "id": "mcneese2008team",
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "page": "1435-1439",
+    "publisher": "SAGE Publications Sage CA: Los Angeles, CA",
+    "title": "Team performance in real and virtual worlds: The perceived value of second life",
+    "title-short": "Team performance in real and virtual worlds",
+    "type": "paper-conference",
+    "volume": "52"
+  }
+]

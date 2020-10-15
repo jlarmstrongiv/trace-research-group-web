@@ -1,0 +1,97 @@
+[
+  {
+    "author": [
+      {
+        "family": "Flathmann",
+        "given": "Christopher"
+      },
+      {
+        "family": "McNeese",
+        "given": "Nathan"
+      },
+      {
+        "family": "Canonico",
+        "given": "Lorenzo Barberis"
+      }
+    ],
+    "collection-number": "1",
+    "container-title": "Proceedings of the human factors and ergonomics society annual meeting",
+    "id": "flathmann2019using",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "page": "1425-1429",
+    "publisher": "SAGE Publications Sage CA: Los Angeles, CA",
+    "title": "Using human-agent teams to purposefully design multi-agent systems",
+    "type": "paper-conference",
+    "volume": "63"
+  },
+  {
+    "author": [
+      {
+        "family": "Canonico",
+        "given": "Lorenzo Barberis"
+      },
+      {
+        "family": "Flathmann",
+        "given": "Christopher"
+      },
+      {
+        "family": "McNeese",
+        "given": "Nathan"
+      }
+    ],
+    "collection-number": "1",
+    "container-title": "Proceedings of the human factors and ergonomics society annual meeting",
+    "id": "canonico2019collectively",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "page": "1466-1470",
+    "publisher": "SAGE Publications Sage CA: Los Angeles, CA",
+    "title": "Collectively intelligent teams: Integrating team cognition, collective intelligence, and ai for future teaming",
+    "title-short": "Collectively intelligent teams",
+    "type": "paper-conference",
+    "volume": "63"
+  },
+  {
+    "author": [
+      {
+        "family": "Canonico",
+        "given": "Lorenzo Barberis"
+      },
+      {
+        "family": "Flathmann",
+        "given": "Christopher"
+      },
+      {
+        "family": "McNeese",
+        "given": "Nathan"
+      }
+    ],
+    "collection-number": "1",
+    "container-title": "Proceedings of the human factors and ergonomics society annual meeting",
+    "id": "canonico2019wisdom",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "page": "1471-1475",
+    "publisher": "SAGE Publications Sage CA: Los Angeles, CA",
+    "title": "The wisdom of the market: Using human factors to design prediction markets for collective intelligence",
+    "title-short": "The wisdom of the market",
+    "type": "paper-conference",
+    "volume": "63"
+  }
+]

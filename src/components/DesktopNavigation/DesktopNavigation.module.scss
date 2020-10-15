@@ -1,0 +1,75 @@
+.container {
+  background-color: var(--primaries-700);
+}
+
+.header {
+  display: none;
+  width: 100vw;
+  max-width: 1024px;
+  margin: 0 auto;
+  justify-content: space-between;
+}
+.logoContainer,
+.nav {
+  // https://stackoverflow.com/a/37785605
+  margin: 20px;
+}
+.hr {
+  height: 2px;
+  background-color: var(--primaries-800);
+}
+.nav {
+  min-width: 400px;
+}
+.ul {
+  display: flex;
+}
+
+.logoContainer {
+  display: flex;
+}
+.info {
+  padding-left: 24px;
+}
+
+.university {
+  font-family: var(--font-header);
+  color: var(--white);
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 25px;
+}
+
+.department {
+  font-family: var(--font-header);
+  color: var(--white);
+  font-style: italic;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 25px;
+}
+
+.li,
+.interpunct {
+  color: white;
+  text-align: center;
+
+  font-family: var(--font-header);
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 25px;
+}
+
+.li {
+  list-style-type: none;
+  flex-grow: 1;
+}
+
+@media screen and (min-width: 800px) {
+  .header {
+    display: flex;
+    align-items: center;
+  }
+}

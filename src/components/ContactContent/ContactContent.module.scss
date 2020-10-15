@@ -1,0 +1,90 @@
+.content {
+  display: grid;
+  padding: 16px;
+  grid-gap: 16px;
+
+  h3 {
+    font-family: Fira Sans;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 23px;
+    color: var(--neutrals-800);
+  }
+  p,
+  li {
+    font-family: Fira Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 23px;
+    color: var(--neutrals-800);
+  }
+  li {
+    line-height: 23px;
+    text-indent: -32px;
+    padding-left: 24px;
+    padding-bottom: 8px;
+
+    &::before {
+      content: '';
+      height: 24px;
+      width: 24px;
+      // background-image: url('/static/icons/gameday-sky-500/icons8-checked_checkbox.svg');
+      padding-right: 32px;
+      background-position: center center;
+      background-size: contain;
+      background-repeat: no-repeat;
+    }
+  }
+  ul {
+    padding-top: 16px;
+  }
+  button {
+    display: block;
+    border-radius: 12px;
+    padding: 12px 48px;
+    margin: 0 auto;
+    font-family: Zilla Slab;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 19px;
+    line-height: 19px;
+    background-color: var(--primaries-700);
+    color: white;
+  }
+}
+
+@media screen and (min-width: 800px) {
+  .content {
+    padding: 32px;
+    grid-gap: 32px;
+
+    h3 {
+      font-size: 21px;
+      line-height: 30px;
+      padding-bottom: 8px;
+    }
+    p,
+    li {
+      font-size: 21px;
+      line-height: 30px;
+    }
+    ul {
+      padding-top: 32px;
+    }
+
+    li {
+      text-indent: -48px;
+      padding-left: 35px;
+      padding-bottom: 16px;
+
+      &::before {
+        content: '';
+        height: 24px;
+        width: 24px;
+        padding-right: 48px;
+      }
+    }
+  }
+}

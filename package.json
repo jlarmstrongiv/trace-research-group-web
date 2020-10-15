@@ -1,0 +1,85 @@
+{
+  "name": "next-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": "^13.3.0",
+    "npm": "^6.13.2"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "preexport": "next build",
+    "export": "next export",
+    "start": "next start",
+    "prezip": "npm run export",
+    "zip": "cd ./out/ && zip -r ../out.zip ./*",
+    "preserve": "next build && next export",
+    "serve": "ws --directory ./out/ --http2 --compress --spa --port 5000",
+    "publications": "bash ./src/data/publications/bibtext-to-json.sh && node ./src/data/publications/index.js",
+    "lighthouse": "lighthouse --view --chrome-flags='--ignore-certificate-errors' https://127.0.0.1:5000",
+    "analyze": "cross-env ANALYZE=true next build",
+    "analyze:server": "cross-env BUNDLE_ANALYZE=server next build",
+    "analyze:browser": "cross-env BUNDLE_ANALYZE=browser next build",
+    "prettier": "prettier --write '**/*.{js,jsx,ts,tsx}' '!.next/**' '!out/**' '!next-env.d.ts'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "autodll-webpack-plugin": "^0.4.2",
+    "caniuse-db": "^1.0.30001148",
+    "classnames": "^2.2.6",
+    "flat": "^5.0.2",
+    "fuse.js": "^6.4.1",
+    "next": "^9.5.5",
+    "normalize-opentype.css": "^0.2.4",
+    "normalize.css": "^8.0.1",
+    "query-string": "^6.13.5",
+    "react": "^16.14.0",
+    "react-animate-on-scroll": "^2.1.5",
+    "react-dom": "^16.14.0",
+    "reset-css": "^5.0.1",
+    "slug": "^3.5.1",
+    "styled-components": "^5.2.0"
+  },
+  "devDependencies": {
+    "@types/flat": "5.0.1",
+    "@types/fs-extra": "^9.0.2",
+    "@types/next": "^9.0.0",
+    "@types/node": "^14.11.8",
+    "@types/query-string": "^6.3.0",
+    "@types/react": "^16.9.52",
+    "@types/react-dom": "^16.9.8",
+    "@types/slug": "^0.9.1",
+    "@types/styled-components": "^5.1.4",
+    "@zeit/next-sass": "^1.0.1",
+    "autoprefixer": "^10.0.1",
+    "babel-plugin-module-resolver": "^4.0.0",
+    "babel-plugin-styled-components": "^1.11.1",
+    "cross-env": "^7.0.2",
+    "cssnano": "^4.1.10",
+    "cssnext": "^1.8.4",
+    "fast-glob": "^3.2.4",
+    "fs-extra": "^9.0.1",
+    "lighthouse": "^6.4.1",
+    "local-web-server": "^4.2.1",
+    "node-sass": "^4.14.1",
+    "postcss": "^8.1.1",
+    "prettier": "^2.1.2",
+    "typescript": "^4.0.3"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

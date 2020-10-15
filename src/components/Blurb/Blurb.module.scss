@@ -1,0 +1,80 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    padding: 42px;
+
+}
+
+.image {
+    padding-left: 60px;
+}
+
+.card {
+    display: flex;
+    position: absolute;
+
+}
+
+.text {
+    text-align: center;
+    font-family: Zilla Slab;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 21px;
+    line-height: 61px;
+    color: var(--cool-grey-800);
+
+}
+
+.blue {
+    font-family: Zilla Slab;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 21px;
+    line-height: 61px;
+    color: var(--gameday-sky-500);
+
+}
+
+@media screen and (min-width: 800px) {
+    .container {
+        margin: 0 auto;
+        display: flex;
+        padding: 16px;
+        align-items: center;
+        justify-content: center;
+    
+    }
+    
+    .card {
+        align-items: center;
+        justify-content: center;
+        position: absolute;
+
+    }
+    
+    .text {
+        font-family: Zilla Slab;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 50px;
+        line-height: 61px;
+        color: var(--cool-grey-800);
+        text-align: left;
+        max-width: 636px;
+        
+    }
+    
+    .blue {
+        font-family: Zilla Slab;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 50px;
+        line-height: 61px;
+        color: var(--gameday-sky-500);
+    
+    }
+  }
+  

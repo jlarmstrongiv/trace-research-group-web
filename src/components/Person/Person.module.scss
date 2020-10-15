@@ -1,0 +1,65 @@
+.container {
+  display: flex;
+  padding: 16px;
+  align-items: center;
+  justify-content: center;
+  &:hover {
+    background-color: var(--neutrals-050);
+  }
+}
+
+.avatar {
+  border-radius: 10px;
+  width: 48px;
+  height: 48px;
+}
+
+.info {
+  padding-left: 16px;
+  flex-grow: 1;
+}
+
+.name {
+  font-family: Fira Sans;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 23px;
+  color: var(--neutrals-800);
+}
+
+.program {
+  font-family: Fira Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 23px;
+  color: var(--neutrals-800);
+}
+
+.divider {
+  height: 2px;
+  background-color: var(--neutrals-100);
+}
+
+@media screen and (min-width: 800px) {
+  .container {
+    padding: 32px;
+    justify-content: left;
+  }
+  .avatar {
+    width: 72px;
+    height: 72px;
+  }
+  .info {
+    padding-left: 32px;
+  }
+  .name {
+    font-size: 21px;
+    line-height: 30px;
+  }
+  .program {
+    font-size: 21px;
+    line-height: 30px;
+  }
+}

@@ -1,0 +1,214 @@
+[
+  {
+    "author": [
+      {
+        "family": "Barberis Canonico",
+        "given": "Lorenzo"
+      },
+      {
+        "family": "McNeese",
+        "given": "Nathan J"
+      },
+      {
+        "family": "Duncan",
+        "given": "Chris"
+      }
+    ],
+    "collection-number": "1",
+    "container-title": "Proceedings of the human factors and ergonomics society annual meeting",
+    "id": "barberis2018machine",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "page": "1252-1256",
+    "publisher": "SAGE Publications Sage CA: Los Angeles, CA",
+    "title": "Machine learning as grounded theory: Human-centered interfaces for social network research through artificial intelligence",
+    "title-short": "Machine learning as grounded theory",
+    "type": "paper-conference",
+    "volume": "62"
+  },
+  {
+    "author": [
+      {
+        "family": "Barberis Canonico",
+        "given": "Lorenzo"
+      },
+      {
+        "family": "McNeese",
+        "given": "Nathan J"
+      },
+      {
+        "family": "Shuffler",
+        "given": "Marissa L"
+      }
+    ],
+    "collection-number": "1",
+    "container-title": "Proceedings of the human factors and ergonomics society annual meeting",
+    "id": "barberis2018stable",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "page": "1202-1206",
+    "publisher": "SAGE Publications Sage CA: Los Angeles, CA",
+    "title": "Stable teamwork marriages in healthcare: Applying machine learning to surgeon-nurse-patient matching",
+    "title-short": "Stable teamwork marriages in healthcare",
+    "type": "paper-conference",
+    "volume": "62"
+  },
+  {
+    "author": [
+      {
+        "family": "Flathmann",
+        "given": "Christopher"
+      },
+      {
+        "family": "McNeese",
+        "given": "Nathan"
+      },
+      {
+        "family": "Canonico",
+        "given": "Lorenzo Barberis"
+      }
+    ],
+    "collection-number": "1",
+    "container-title": "Proceedings of the human factors and ergonomics society annual meeting",
+    "id": "flathmann2019using",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "page": "1425-1429",
+    "publisher": "SAGE Publications Sage CA: Los Angeles, CA",
+    "title": "Using human-agent teams to purposefully design multi-agent systems",
+    "type": "paper-conference",
+    "volume": "63"
+  },
+  {
+    "author": [
+      {
+        "family": "Canonico",
+        "given": "Lorenzo Barberis"
+      },
+      {
+        "family": "Flathmann",
+        "given": "Christopher"
+      },
+      {
+        "family": "McNeese",
+        "given": "Nathan"
+      }
+    ],
+    "collection-number": "1",
+    "container-title": "Proceedings of the human factors and ergonomics society annual meeting",
+    "id": "canonico2019collectively",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "page": "1466-1470",
+    "publisher": "SAGE Publications Sage CA: Los Angeles, CA",
+    "title": "Collectively intelligent teams: Integrating team cognition, collective intelligence, and ai for future teaming",
+    "title-short": "Collectively intelligent teams",
+    "type": "paper-conference",
+    "volume": "63"
+  },
+  {
+    "author": [
+      {
+        "family": "Canonico",
+        "given": "Lorenzo Barberis"
+      },
+      {
+        "family": "Flathmann",
+        "given": "Christopher"
+      },
+      {
+        "family": "McNeese",
+        "given": "Nathan"
+      }
+    ],
+    "collection-number": "1",
+    "container-title": "Proceedings of the human factors and ergonomics society annual meeting",
+    "id": "canonico2019wisdom",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "page": "1471-1475",
+    "publisher": "SAGE Publications Sage CA: Los Angeles, CA",
+    "title": "The wisdom of the market: Using human factors to design prediction markets for collective intelligence",
+    "title-short": "The wisdom of the market",
+    "type": "paper-conference",
+    "volume": "63"
+  },
+  {
+    "author": [
+      {
+        "family": "Barberis",
+        "given": "Lorenzo"
+      },
+      {
+        "family": "McNeese",
+        "given": "Nathan J"
+      }
+    ],
+    "collection-number": "1",
+    "container-title": "Proceedings of the human factors and ergonomics society annual meeting",
+    "id": "barberis2018intelligent",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "page": "1197-1201",
+    "publisher": "SAGE Publications Sage CA: Los Angeles, CA",
+    "title": "Intelligent and human-centered clinical checklists: A voice interface for virtualized clinical paths",
+    "title-short": "Intelligent and human-centered clinical checklists",
+    "type": "paper-conference",
+    "volume": "62"
+  },
+  {
+    "author": [
+      {
+        "family": "Canonico",
+        "given": "Lorenzo Barberis"
+      },
+      {
+        "family": "McNeese",
+        "given": "Nathan"
+      }
+    ],
+    "container-title": "2019 winter simulation conference (wsc)",
+    "id": "canonico2019flash",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "page": "193-204",
+    "publisher": "IEEE",
+    "title": "Flash crashes in multi-agent systems using minority games and reinforcement learning to test ai safety",
+    "type": "paper-conference"
+  }
+]

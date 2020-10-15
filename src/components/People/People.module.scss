@@ -1,0 +1,38 @@
+.searchContainer {
+  padding: 16px;
+}
+
+.search {
+  display: flex;
+  padding: 16px;
+  background-color: var(--neutrals-050);
+  border-radius: 2px;
+}
+
+.input {
+  flex-grow: 1;
+  color: var(--primaries-800);
+
+  font-family: var(--font-header);
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 25px;
+
+  &::placeholder {
+    color: var(--primaries-800);
+  }
+}
+.icon {
+  padding-right: 16px;
+}
+
+@media screen and (min-width: 800px) {
+  .searchContainer {
+    padding: 32px;
+  }
+  .input {
+    font-size: 20px;
+    line-height: 25px;
+  }
+}

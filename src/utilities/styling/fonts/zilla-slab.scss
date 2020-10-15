@@ -1,0 +1,45 @@
+/* zilla-slab-600italic - latin */
+@font-face {
+  font-family: 'Zilla Slab';
+  font-style: italic;
+  font-weight: 600;
+  src: url('/static/fonts/zilla-slab-v5-latin/zilla-slab-v5-latin-600italic.eot'); /* IE9 Compat Modes */
+  src: local('Zilla Slab SemiBold Italic'),
+    local('ZillaSlab-SemiBoldItalic'),
+    url('/static/fonts/zilla-slab-v5-latin/zilla-slab-v5-latin-600italic.eot?#iefix')
+      format('embedded-opentype'),
+    /* IE6-IE8 */
+      url('/static/fonts/zilla-slab-v5-latin/zilla-slab-v5-latin-600italic.woff2')
+      format('woff2'),
+    /* Super Modern Browsers */
+      url('/static/fonts/zilla-slab-v5-latin/zilla-slab-v5-latin-600italic.woff')
+      format('woff'),
+    /* Modern Browsers */
+      url('/static/fonts/zilla-slab-v5-latin/zilla-slab-v5-latin-600italic.ttf')
+      format('truetype'),
+    /* Safari, Android, iOS */
+      url('/static/fonts/zilla-slab-v5-latin/zilla-slab-v5-latin-600italic.svg#ZillaSlab')
+      format('svg'); /* Legacy iOS */
+}
+/* zilla-slab-700 - latin */
+@font-face {
+  font-family: 'Zilla Slab';
+  font-style: normal;
+  font-weight: 700;
+  src: url('/static/fonts/zilla-slab-v5-latin/zilla-slab-v5-latin-700.eot'); /* IE9 Compat Modes */
+  src: local('Zilla Slab Bold'), local('ZillaSlab-Bold'),
+    url('/static/fonts/zilla-slab-v5-latin/zilla-slab-v5-latin-700.eot?#iefix')
+      format('embedded-opentype'),
+    /* IE6-IE8 */
+      url('/static/fonts/zilla-slab-v5-latin/zilla-slab-v5-latin-700.woff2')
+      format('woff2'),
+    /* Super Modern Browsers */
+      url('/static/fonts/zilla-slab-v5-latin/zilla-slab-v5-latin-700.woff')
+      format('woff'),
+    /* Modern Browsers */
+      url('/static/fonts/zilla-slab-v5-latin/zilla-slab-v5-latin-700.ttf')
+      format('truetype'),
+    /* Safari, Android, iOS */
+      url('/static/fonts/zilla-slab-v5-latin/zilla-slab-v5-latin-700.svg#ZillaSlab')
+      format('svg'); /* Legacy iOS */
+}
